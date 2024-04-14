@@ -1,4 +1,4 @@
-👋 Oliwier Jagus
+Oliwier Jagus
 ==============================
 
 Computer Engineering Student
