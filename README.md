@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-jagus-1b0614251/) [![LeetCode user olijag](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Folijag&logo=leetcode&logoColor=yellow)](https://leetcode.com/olijag/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliwierjagus/) [![LeetCode user olijag](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Folijag&logo=leetcode&logoColor=yellow)](https://leetcode.com/olijag/)
 
 Oliwier Jagus
 ==============================
