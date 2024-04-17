@@ -10,6 +10,10 @@
 
 ###
 
+<p align="left">🌍 I'm based in Norway, Vestfold<br>📫 You can contact me at olijag@yahoo.com</p>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
